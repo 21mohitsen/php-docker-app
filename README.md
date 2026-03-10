@@ -1,1 +1,1 @@
-Webhook test for Jenkins CI/CD pipeline .
+Webhook test for Jenkins CI/CD pipeline code.
