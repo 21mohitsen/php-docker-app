@@ -3,9 +3,9 @@ pipeline {
 
     stages {
 
-        stage('Clone Repository') {
+        stage('Checkout Code') {
             steps {
-                git 'https://github.com/21mohitsen/php-docker-app.git'
+                checkout scm
             }
         }
 
